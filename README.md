@@ -7,4 +7,4 @@ heating via a relay.
 It communicates securely(AES ciphering + signed messages) with a MySensors MQTT
 gateway running on a Arduino Uno
 ## Images
-<img src='https://github.com/olaldiko/mendiaxpe_heater_mysensors/blob/master/heater1.png'/> 
+<img src='https://github.com/olaldiko/mendiaxpe_heater_mysensors/blob/master/heater1.jpg'/> 
