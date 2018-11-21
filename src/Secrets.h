@@ -1,1 +1,1 @@
-#define MY_SIGNING_SIMPLE_PASSWORD "32charpassword"
+#define MY_SECURITY_SIMPLE_PASSWORD "123examplePassword (32 chars)"
